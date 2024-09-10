@@ -1,3 +1,4 @@
+'use strict';
 
 const Calculator = {
     num1 : 0,
@@ -11,7 +12,7 @@ const Calculator = {
             case '-':
                 return subtract(this.num1, this.num2);
                 break;
-            case '*':
+            case 'x':
                 return multiply(this.num1, this.num2);
                 break;
             case '/':
