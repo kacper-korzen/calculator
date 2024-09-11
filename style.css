@@ -3,7 +3,7 @@
     --clr-background: hsl(210, 80%, 98%);
     --clr-primary: hsl(214, 85%, 53%);
     --clr-secondary: hsl(0, 0%, 50%);
-    --clr-accent: hsl(128, 85%, 62%);
+    --clr-accent: hsl(214, 60%, 70%);
 
 
     --ff-base: "Karla", sans-serif;
@@ -24,7 +24,6 @@
         --clr-text: hsl(216, 83%, 93%);
         --clr-background: hsl(210, 80%, 2%);
         --clr-primary: hsl(214, 85%, 47%);
-        --clr-accent: hsl(128, 85%, 38%);
     }
 }
 
@@ -83,7 +82,7 @@ main{
     flex-direction: column;
     text-align: right;
     padding: 0.5rem;
-    background-color: var(--clr-secondary);
+    background-color: var(--clr-accent);
     border: 2px solid var(--clr-primary);
     border-radius: 1rem;
     color: var(--clr-text);
