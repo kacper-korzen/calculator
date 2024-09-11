@@ -20,7 +20,7 @@ This project is a basic calculator that allows users to perform arithmetic opera
 
 ## Screenshots
 
-![App Screenshot](img/app-screen.png)
+![App Screenshot](img/screen-app.png)
 
 
 ## Technical Details
