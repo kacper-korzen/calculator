@@ -14,13 +14,13 @@ This project is a basic calculator that allows users to perform arithmetic opera
 
 ## Demo
 
-[**Live Demo**](https://felixtanhm.github.io/my-odin-projects/foundations/02-landing-page/) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-calculator) 
+[**Live Demo**](https://radix-ratio.github.io/calculator) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-calculator) 
 
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/app-screen.png)
 
 
 ## Technical Details
@@ -30,10 +30,10 @@ This project is a basic calculator that allows users to perform arithmetic opera
 ## Getting Started
 1. Open the calculator in a web browser.
 2. Enter a number in the input field using the number buttons or the keyboard.
-3. Select an operation using the corresponding button (+, -, *, /).
+3. Select an operation using the corresponding button (+, -, x, /).
 4. Enter another number.
 5. Click the "=" button to calculate the result.
-6. Click the "C" button to clear the input field and start a new calculation.
+6. Click the "AC" button to clear the input field and start a new calculation.
 
 ## License
 This project is licensed under the MIT License. See [`LICENSE`](https://choosealicense.com/licenses/mit/)  for details.
