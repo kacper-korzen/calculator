@@ -1,5 +1,9 @@
 'use strict';
 
+let num1 = 0;
+let num2 = 0;
+let symbol = '';
+
 const Calculator = {
     num1 : 0,
     num2 : 0,
@@ -42,3 +46,12 @@ function divide (num1, num2) {
     }
     return num1 / num2;
 }
+
+
+const calculatorButtonsDiv = document.querySelector('.calculator-buttons');
+const calculatorButtons = Array.from(calculatorButtonsDiv.querySelectorAll('button'));
+
+
+calculatorButtons.map(button =>{
+    button.addEventListener('click', () => { showInput(button.textContent)});
+});
