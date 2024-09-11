@@ -75,6 +75,7 @@ main{
     border: 2px solid var(--clr-primary);
     border-radius: 1rem;
     padding: 1rem;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.08);
 }
 
 .calculator-display {
@@ -108,6 +109,7 @@ main{
     border-radius: 1rem;
     font-size: var(--fs-400);
     color: var(--clr-primary);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.05);
     
 }
 
