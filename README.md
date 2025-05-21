@@ -14,7 +14,7 @@ This project is a basic calculator that allows users to perform arithmetic opera
 
 ## Demo
 
-[**Live Demo**](https://radix-ratio.github.io/calculator) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-calculator) 
+[**Live Demo**](https://kacper-korzen.github.io/calculator) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-calculator) 
 
 
 
@@ -45,5 +45,5 @@ This project is licensed under the MIT License. See [`LICENSE`](https://chooseal
 
 ## Authors
 
-- [@radix-ratio](https://www.github.com/radix-ratio)
+- [@Kacper K](https://www.github.com/kacper-korzen)
 
